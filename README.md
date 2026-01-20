@@ -103,12 +103,12 @@ otlp:
 
 Требования к результату
  Прикрепите к файлу README.md скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО
-![Задание4](https://github.com/ddponomarev/zabbix_2/blob/main/img/zad4.png)
+
 
 
 ---
 ### Задание 5
 Интегрируйте Grafana и Prometheus.
-![Задание5](https://github.com/ddponomarev/zabbix_2/blob/main/img/zad5.png)
+
 
 ---
