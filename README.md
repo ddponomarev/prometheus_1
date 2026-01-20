@@ -12,7 +12,7 @@
 Требования к результату
  Прикрепите к файлу README.md скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — [Ваши ФИО]
 
-![Задание1](https://github.com/ddponomarev/prometheus_1/blob/main/img/zad1.png)
+![Задание1](https://github.com/ddponomarev/prometheus_1/blob/master/img/zad1.png)
 
 ---
 
