@@ -15,7 +15,6 @@
 ![Задание1](https://github.com/ddponomarev/prometheus_1/blob/master/img/zad1.png)
 
 ---
-
 ### Задание 2
 Установите Node Exporter.
 
@@ -26,7 +25,7 @@
 Проверьте что node exporter запускается, останавливается, перезапускается и отображает статус с помощью systemctl
 Требования к результату
  Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
-
+![Задание1](https://github.com/ddponomarev/prometheus_1/blob/master/img/zad2.png)
 
 ---
 
